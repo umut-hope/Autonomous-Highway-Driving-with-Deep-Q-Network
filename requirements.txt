@@ -1,0 +1,15 @@
+# Core AI and Reinforcement Learning Libraries
+stable-baselines3[extra]>=2.0.0
+gymnasium>=0.28.1
+shimmy>=0.2.0
+
+# Highway-Env Environment and Dependencies
+highway-env>=1.8.2
+
+# Visualization and Data Processing
+matplotlib>=3.7.0
+imageio>=2.30.0
+numpy>=1.23.0
+
+# Video processing dependencies
+ffmpeg-python>=0.2.0
